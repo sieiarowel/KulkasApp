@@ -24,7 +24,7 @@ public class KulkasApp extends JFrame {
     private Connection conn;
     
     public KulkasApp() {
-        setTitle("Pengelolaan Data Kulkas Caroline Tangka (21232031)");
+        setTitle("Pengelolaan Data Kulkas Caroline Tangka");
         setSize(600, 400);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
