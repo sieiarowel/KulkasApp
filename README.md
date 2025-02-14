@@ -9,6 +9,7 @@ Mencari kulkas berdasarkan merek
 Tampilan berbasis GUI dengan Swing  
 
 # Kode : 
+```
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
