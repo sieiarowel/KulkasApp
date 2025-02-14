@@ -1,7 +1,5 @@
-# KulkasApp
-Aplikasi pengelolaan data kulkas berbasis Java dan MySQL.  
 
-# Fitur
+# Fitur KulkasApp
 Menambahkan data kulkas  
 Mengedit data kulkas  
 Menghapus data kulkas  
